@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1095407394396",
+    "firebase_url": "https://messageapp-fc32a.firebaseio.com",
+    "project_id": "messageapp-fc32a",
+    "storage_bucket": "messageapp-fc32a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095407394396:android:0c3df85474b72880355099",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095407394396-f0vea49hctohv9l2mcnsgv22jlb4s35a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXnO87mUy3bJwrs0tp3atkNEPBf6yt8rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095407394396-f0vea49hctohv9l2mcnsgv22jlb4s35a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

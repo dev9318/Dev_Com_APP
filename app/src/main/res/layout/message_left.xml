@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:padding="10dp"
+    android:layout_height="wrap_content"
+    >
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textStyle="bold"
+        android:textSize="14sp"
+        android:id="@+id/show_User"
+        ></TextView>
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/show_User"
+        android:textSize="13sp"
+        android:layout_width="wrap_content"
+        android:id="@+id/show_text_message"
+        ></TextView>
+</RelativeLayout>
